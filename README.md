@@ -33,7 +33,7 @@ Epoch 5/5 |  val  | Loss: 0.6896 | Acc: 0.5479
 The implemented CoAtNet architecture with Focal Loss has proven to be effective in distinguishing between cardiac and large artery atherosclerosis strokes, holding potential for real-world clinical applications.
 
 ## References
-- CoAtNet Paper :[Paper]([https://arxiv.org/pdf/2106.04803.pdf](https://arxiv.org/pdf/2106.04803.pdf))
+- CoAtNet Paper : https://arxiv.org/pdf/2106.04803.pdf
 - Kaggle Challenge Link : https://www.kaggle.com/competitions/mayo-clinic-strip-ai/overview
 - Any other libraries or tools used : einops 
 
