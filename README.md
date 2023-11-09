@@ -20,8 +20,8 @@ The CoAtNet paper attempts to effectively combine the strengths from both convol
 ![](https://i.ibb.co/Sd6wj7D/Selection-998.png)
 
 The CoAtNet model is structured as follows:
-- Number of Blocks: [2, 2, 4, 8, 2]
-- Channels: [192, 256, 512, 1024, 3072]
+- Number of Blocks: [2, 2, 3, 5, 2]
+- Channels: [64, 96, 192, 384, 768]
 
 ## Results
 Here are the visual results from the manuscript, showcasing the model's performance and the differentiation of clot origins.
