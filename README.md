@@ -24,7 +24,7 @@ The CoAtNet model is structured as follows:
 - Channels: [64, 96, 192, 384, 768]
 
 ## Results
-Here are the visual results from the manuscript, showcasing the model's performance and the differentiation of clot origins.
+Here are the results showcasing the model's performance and the differentiation of clot origins.
 
 Epoch 5/5 | train | Loss: 0.6523 | Acc: 0.6697
 Epoch 5/5 |  val  | Loss: 0.6896 | Acc: 0.5479
